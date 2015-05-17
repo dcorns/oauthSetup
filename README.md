@@ -1,2 +1,2 @@
 # oauthSetup
-Examples of logins using oauth
+Examples of using oauth for user authentication.
